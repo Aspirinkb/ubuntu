@@ -24,4 +24,5 @@
 ## 
 * caffe test
 ![caffe test](https://github.com/Aspirinkb/ubuntu/blob/master/caffe_test.png)
+* python import test
 ![python import test](https://github.com/Aspirinkb/ubuntu/blob/master/python.png)
