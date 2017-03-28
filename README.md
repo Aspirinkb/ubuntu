@@ -21,3 +21,6 @@
 * caffe-git: /home/sh/git-repo/caffe
 * caffe-config: /home/sh/git-repo/caffe/Makefile.config
 
+## 
+* caffe test
+![caffe test](https://github.com/Aspirinkb/ubuntu/blob/master/caffe_test.png)
