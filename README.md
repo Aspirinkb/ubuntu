@@ -1,7 +1,7 @@
 
 ## account
-* root user password: 123456
-* user: sh, password: 123456
+* root user password: *
+* user: sh, password: *
 
 ## OS
 * Ubuntu 16.04 
